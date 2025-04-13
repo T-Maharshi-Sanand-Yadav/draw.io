@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="bJqPYgrTQwcSjoSEg0IW">
-    <mxGraphModel>
+    <mxGraphModel dx="2320" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-1" target="OD1O5oSfDTHdxWuwRueR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-1" value="RTL Development" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-2" target="OD1O5oSfDTHdxWuwRueR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-2" value="Partitioning at RTL Level" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-3" target="OD1O5oSfDTHdxWuwRueR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-3" value="Constraint development" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-4" target="OD1O5oSfDTHdxWuwRueR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-4" value="RTL Integration or Constraint Checking" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-5" target="OD1O5oSfDTHdxWuwRueR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-5" value="Translation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-6" target="OD1O5oSfDTHdxWuwRueR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-6" value="Logical Optimization" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-7" target="OD1O5oSfDTHdxWuwRueR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-7" value="Technology Mapping" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="840" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-8" value="Timing Optimization" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="240" y="960" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-16" target="OD1O5oSfDTHdxWuwRueR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-16" value="Timing Analysis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1020" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-17" value="Optimized Gate Level Netlist" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="660" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-18" target="OD1O5oSfDTHdxWuwRueR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-18" target="OD1O5oSfDTHdxWuwRueR-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-18" value="Pass" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="800" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="OD1O5oSfDTHdxWuwRueR-21" target="OD1O5oSfDTHdxWuwRueR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-21" value="Remapping of Cells in .lib" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="850" y="840" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-23" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="740" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OD1O5oSfDTHdxWuwRueR-24" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="810" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
