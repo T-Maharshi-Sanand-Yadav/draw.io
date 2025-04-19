@@ -1,11 +1,17 @@
 url = https://wavedrom.com/editor.html
 
-#Positive Edge Trigger
+#Positive Edge Trigger :
 { signal: [
-  { name: "Clock",  wave: "lPlPlPlP" },
+  { name: "clock",  wave: "lPlPlPlP" },
 ]}
 
-#Negative Edge Trigger
+#Negative Edge Trigger :
 { signal: [
-  { name: "Clock", wave: "hNhNhNhNh" }
+  { name: "clock", wave: "hNhNhNhNh" }
+]}
+
+#Duty Cycle :
+{ signal: [
+  { name: "clock",  wave: "lPPPP" },
+  
 ]}
