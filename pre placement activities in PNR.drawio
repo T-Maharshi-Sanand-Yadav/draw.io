@@ -124,7 +124,7 @@
         <mxCell id="rdmJ6DNgbbCMuEhDgJib-46" value="HEIGTH OF A STANDARD CELL" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="610" y="1520" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rdmJ6DNgbbCMuEhDgJib-47" value="THE HEIGHT OF UNIT TILE = HEIGHT OF STANDRD CELL" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-47" value="THE HEIGHT OF UNIT TILE = HEIGHT OF STANDARD CELL" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="1670" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
