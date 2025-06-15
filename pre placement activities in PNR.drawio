@@ -1,9 +1,105 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="ekzMZGjHH9j-4t2uULvl">
-    <mxGraphModel>
+    <mxGraphModel dx="2486" dy="933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=20;" edge="1" parent="1" source="rdmJ6DNgbbCMuEhDgJib-19" target="rdmJ6DNgbbCMuEhDgJib-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="520" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-1" value="Netlist" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fontSize=18;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-2" value="LEF File" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fontSize=18;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-3" value="LIB File" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fontSize=18;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-4" value="SDC File" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fontSize=18;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-5" value="MMMC File" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fontSize=18;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="rdmJ6DNgbbCMuEhDgJib-6" target="rdmJ6DNgbbCMuEhDgJib-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-6" value="DEFINE CORE AREA" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="rdmJ6DNgbbCMuEhDgJib-12" target="rdmJ6DNgbbCMuEhDgJib-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-12" value="PIN PLACEMENT" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="rdmJ6DNgbbCMuEhDgJib-13" target="rdmJ6DNgbbCMuEhDgJib-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-13" value="MACRO PLACEMENT" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="rdmJ6DNgbbCMuEhDgJib-14" target="rdmJ6DNgbbCMuEhDgJib-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-14" value="PLACEMENT AND ROUTING BLOCKAGES OVER MACRO" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="rdmJ6DNgbbCMuEhDgJib-15" target="rdmJ6DNgbbCMuEhDgJib-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-15" value="PARTIAL PLACEMENT BLOCKAGE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="840" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="rdmJ6DNgbbCMuEhDgJib-16" target="rdmJ6DNgbbCMuEhDgJib-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-16" value="POWER PLAN" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="rdmJ6DNgbbCMuEhDgJib-17" target="rdmJ6DNgbbCMuEhDgJib-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-17" value="SAVE DATA BASE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1080" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-18" value="PLACEMENT STAGE" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1200" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-29" value="DESIGN IMPORT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rotation=270;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="165" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-30" value="" style="html=1;rounded=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint y="1060" as="sourcePoint" />
+            <mxPoint x="850" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-31" value="" style="html=1;rounded=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint y="1180" as="sourcePoint" />
+            <mxPoint x="850" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-32" value="" style="html=1;rounded=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint y="340" as="sourcePoint" />
+            <mxPoint x="850" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-33" value="PRE - PLACEMENT ACTIVITIES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rotation=270;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="680" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-34" value="DATABASE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rotation=270;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="1100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-35" value="PLACEMENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rotation=270;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="1250" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
