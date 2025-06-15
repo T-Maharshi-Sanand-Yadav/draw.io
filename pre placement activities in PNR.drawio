@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="ekzMZGjHH9j-4t2uULvl">
-    <mxGraphModel dx="2486" dy="933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1627" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,33 @@
         </mxCell>
         <mxCell id="rdmJ6DNgbbCMuEhDgJib-35" value="PLACEMENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;rotation=270;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-55" y="1250" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-36" value="VDD METAL WIDTH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1440" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-37" value="PMOS CHANNEL WIDTH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1480" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-38" value="NMOS CHANNEL WIDTH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1560" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-39" value="VSS METAL WIDTH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1600" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-41" value="DIFFUSION SPACING" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1520" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1640" as="sourcePoint" />
+            <mxPoint x="600" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-46" value="HEIGTH OF A STANDARD CELL" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="1520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rdmJ6DNgbbCMuEhDgJib-47" value="THE HEIGHT OF UNIT TILE = HEIGHT OF STANDRD CELL" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="1670" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
