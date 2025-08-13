@@ -1,9 +1,73 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="cTG2enly_IKkNHfQ5xBX">
-    <mxGraphModel>
+    <mxGraphModel dx="1838" dy="1160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LUZua2vy15pc9Eh650JS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="LUZua2vy15pc9Eh650JS-1" target="LUZua2vy15pc9Eh650JS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="LUZua2vy15pc9Eh650JS-1" target="LUZua2vy15pc9Eh650JS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-1" value="Dynamic Power" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="883" y="467" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="LUZua2vy15pc9Eh650JS-2" target="LUZua2vy15pc9Eh650JS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="LUZua2vy15pc9Eh650JS-2" target="LUZua2vy15pc9Eh650JS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="LUZua2vy15pc9Eh650JS-2" target="LUZua2vy15pc9Eh650JS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-2" value="Static Power&amp;nbsp;&lt;div&gt;or&lt;br&gt;&lt;div&gt;&amp;nbsp;Leakage Power&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="246" y="467" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="LUZua2vy15pc9Eh650JS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="676" y="327" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="LUZua2vy15pc9Eh650JS-3" target="LUZua2vy15pc9Eh650JS-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="588" y="327" />
+              <mxPoint x="948" y="327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-3" value="Total Power" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="528" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-4" value="Sub Threshold Current" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="336" y="547" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-6" value="Internal Power&amp;nbsp;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Short Circuit Power&amp;nbsp;&lt;div&gt;or&lt;div&gt;Crow Bar Power&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="763" y="587" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-7" value="Switching Power" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="587" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-9" value="Junction Leakage" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="336" y="627" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-10" value="Tunneling Current&lt;div&gt;or&lt;/div&gt;&lt;div&gt;Gate Leakage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="336" y="707" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="496" y="547" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="496" y="707" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-13" value="Intrinsic Leakage Power" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="522" y="587" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUZua2vy15pc9Eh650JS-14" value="Gate Leakage power" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="526" y="702" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
