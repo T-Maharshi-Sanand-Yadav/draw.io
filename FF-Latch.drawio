@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Page-1" id="wK8RtzLL9SJ3R5ARjWUS">
-    <mxGraphModel dx="4900" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2450" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -583,11 +583,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VeMJpktW_zQZ9WVwpv5x-161" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Same Clock&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="372" y="160" width="240" height="60" as="geometry" />
+        <mxCell id="VeMJpktW_zQZ9WVwpv5x-161" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Same Clock&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="326" y="70" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VeMJpktW_zQZ9WVwpv5x-162" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Different Clock&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1883" y="180" width="290" height="60" as="geometry" />
+        <mxCell id="VeMJpktW_zQZ9WVwpv5x-162" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Different Clock&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1936" y="80" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
